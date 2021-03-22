@@ -35,5 +35,5 @@ function fu3(dati,papa){
 		papa.appendChild(jauna_rinda);
 	}
 }
-window.setInterval(fu2,500);
+//window.setInterval(fu2,500);
 
